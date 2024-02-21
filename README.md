@@ -17,9 +17,6 @@ Counter for downloads of each song.
 ### downloads_covers
 Counter for user submitted cover songs
 
-### listens.csv (158M)
-Large dataset with data on listening
-
 ### reviews
 User submitted reviews with ratings
 
